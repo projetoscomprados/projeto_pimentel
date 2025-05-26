@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763341961242",
+    "project_id": "projeto-bruno-58cf5",
+    "storage_bucket": "projeto-bruno-58cf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763341961242:android:1bb1f313f87d108bf179a3",
+        "android_client_info": {
+          "package_name": "com.example.projeto_pimentel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_bCe0WKl2bxkjpyGjPFCjewe1TJ83qpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
